@@ -17,13 +17,13 @@
 ## Таблица со статистикой по каждому из 6 образцов:
 ![Alt text](/imgs/resulttable.PNG?raw=true "Optional Title")
 
-##Графики из анализа DESeq2:
-###MA-plot:
+## Графики из анализа DESeq2:
+### MA-plot:
 ![Alt text](/imgs/plotma.png?raw=true "Optional Title")
-###Тепловая карта, показывающая похожесть образцов внутри групп:
+### Тепловая карта, показывающая похожесть образцов внутри групп:
 ![Alt text](/imgs/hm.png?raw=true "Optional Title")
 ![Alt text](/imgs/hm2.png?raw=true "Optional Title")
-###Графики со значениями "Normalized counts":
+### Графики со значениями "Normalized counts":
 ![Alt text](/imgs/nc1.png?raw=true "Optional Title")
 ![Alt text](/imgs/nc2.png?raw=true "Optional Title")
 ![Alt text](/imgs/nc3.png?raw=true "Optional Title")
